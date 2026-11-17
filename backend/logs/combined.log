@@ -1,0 +1,168 @@
+2026-05-29 13:52:04 [info]: ✅ Socket.io initialized
+2026-05-29 13:52:04 [info]: ✅ Reminder cron jobs started
+2026-05-29 13:52:04 [info]: 🚀 Healthcare Chatbot Server running on port 5000 in development mode
+2026-05-29 13:52:08 [info]: ✅ Socket.io initialized
+2026-05-29 13:52:08 [info]: ✅ Reminder cron jobs started
+2026-05-29 13:52:08 [info]: 🚀 Healthcare Chatbot Server running on port 5000 in development mode
+2026-05-29 13:52:13 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-05-29 13:52:13 [error]: ❌ MongoDB connection attempt 1/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-05-29 13:52:13 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-05-29 13:52:20 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-05-29 13:52:20 [error]: ❌ MongoDB connection attempt 2/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-05-29 13:52:20 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-05-29 13:52:29 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-05-29 13:52:29 [error]: ❌ MongoDB connection attempt 3/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-05-29 13:52:29 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-05-29 13:52:40 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-05-29 13:52:40 [error]: ❌ MongoDB connection attempt 4/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-05-29 13:52:40 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-05-29 13:52:53 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-06-09 21:15:59 [info]: ✅ Socket.io initialized
+2026-06-09 21:15:59 [info]: ✅ Reminder cron jobs started
+2026-06-09 21:15:59 [info]: 🚀 Healthcare Chatbot Server running on port 5000 in development mode
+2026-06-09 21:16:04 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-06-09 21:16:04 [error]: ❌ MongoDB connection attempt 1/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:16:04 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:16:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:16:11 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-06-09 21:16:11 [error]: ❌ MongoDB connection attempt 2/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:16:11 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:16:20 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-06-09 21:16:20 [error]: ❌ MongoDB connection attempt 3/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:16:20 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:16:31 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-06-09 21:16:31 [error]: ❌ MongoDB connection attempt 4/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:16:31 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:16:44 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-06-09 21:19:26 [info]: ✅ Socket.io initialized
+2026-06-09 21:19:26 [info]: ✅ Reminder cron jobs started
+2026-06-09 21:19:26 [info]: 🚀 Healthcare Chatbot Server running on port 5000 in development mode
+2026-06-09 21:19:31 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-06-09 21:19:31 [error]: ❌ MongoDB connection attempt 1/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:19:31 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:19:37 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-06-09 21:19:37 [error]: ❌ MongoDB connection attempt 2/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:19:37 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:19:45 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-06-09 21:19:45 [error]: ❌ MongoDB connection attempt 3/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:19:45 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:19:55 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-06-09 21:19:55 [error]: ❌ MongoDB connection attempt 4/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:19:55 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:19:59 [info]: ::1 - - [09/Jun/2026:15:49:59 +0000] "GET /api/health HTTP/1.1" 200 119 "-" "curl/8.13.0"
+2026-06-09 21:20:06 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-06-09 21:20:06 [error]: ❌ MongoDB connection attempt 5/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:20:06 [error]: ==================================================================
+2026-06-09 21:20:06 [error]:                 ⚠️  DATABASE CONNECTION ERROR ⚠️
+2026-06-09 21:20:06 [error]: ==================================================================
+2026-06-09 21:20:06 [error]:   Could not connect to MongoDB.
+2026-06-09 21:20:06 [error]:   If you are running in production/publishing professionally:
+2026-06-09 21:20:06 [error]:   1. Create a free database cluster on MongoDB Atlas.
+2026-06-09 21:20:06 [error]:   2. Copy the connection string and paste it into backend/.env
+2026-06-09 21:20:06 [error]:      as MONGO_URI=mongodb+srv://<user>:<password>@cluster0...
+2026-06-09 21:20:06 [error]:   3. Ensure you replace <password> with your actual database user password.
+2026-06-09 21:20:06 [error]:   4. Whitelist all IP addresses (0.0.0.0/0) in MongoDB Atlas settings.
+2026-06-09 21:20:06 [error]: ==================================================================
+2026-06-09 21:20:06 [warn]: Development mode: Keeping server running so you can update .env. Changes will hot-reload.
+2026-06-09 21:20:06 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:20:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:21:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:22:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:23:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:23:18 [error]: 500 - Operation `users.findOne()` buffering timed out after 10000ms - /api/auth/register - POST - ::1
+2026-06-09 21:23:18 [info]: ::1 - - [09/Jun/2026:15:53:18 +0000] "POST /api/auth/register HTTP/1.1" 500 440 "http://localhost:5173/register" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0"
+2026-06-09 21:24:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:24:30 [error]: 500 - Operation `users.findOne()` buffering timed out after 10000ms - /api/auth/register - POST - ::1
+2026-06-09 21:24:30 [info]: ::1 - - [09/Jun/2026:15:54:30 +0000] "POST /api/auth/register HTTP/1.1" 500 440 "http://localhost:5173/register" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0"
+2026-06-09 21:25:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:26:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:27:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:28:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:29:11 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:30:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:31:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:32:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:33:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:33:29 [error]: 500 - Operation `users.findOne()` buffering timed out after 10000ms - /api/auth/register - POST - ::1
+2026-06-09 21:33:29 [info]: ::1 - - [09/Jun/2026:16:03:29 +0000] "POST /api/auth/register HTTP/1.1" 500 440 "http://localhost:5173/register" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0"
+2026-06-09 21:34:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:35:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:36:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:37:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:38:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:39:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:39:58 [info]: ✅ Socket.io initialized
+2026-06-09 21:39:58 [info]: ✅ Reminder cron jobs started
+2026-06-09 21:39:58 [info]: 🚀 Healthcare Chatbot Server running on port 5000 in development mode
+2026-06-09 21:40:03 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-06-09 21:40:03 [error]: ❌ MongoDB connection attempt 1/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:40:03 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:40:09 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-06-09 21:40:09 [error]: ❌ MongoDB connection attempt 2/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:40:09 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:40:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:40:17 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-06-09 21:40:17 [error]: ❌ MongoDB connection attempt 3/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:40:17 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:40:27 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-06-09 21:40:27 [error]: ❌ MongoDB connection attempt 4/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:40:27 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:40:38 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-06-09 21:40:38 [error]: ❌ MongoDB connection attempt 5/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:40:38 [error]: ==================================================================
+2026-06-09 21:40:38 [error]:                 ⚠️  DATABASE CONNECTION ERROR ⚠️
+2026-06-09 21:40:38 [error]: ==================================================================
+2026-06-09 21:40:38 [error]:   Could not connect to MongoDB.
+2026-06-09 21:40:38 [error]:   If you are running in production/publishing professionally:
+2026-06-09 21:40:38 [error]:   1. Create a free database cluster on MongoDB Atlas.
+2026-06-09 21:40:38 [error]:   2. Copy the connection string and paste it into backend/.env
+2026-06-09 21:40:38 [error]:      as MONGO_URI=mongodb+srv://<user>:<password>@cluster0...
+2026-06-09 21:40:38 [error]:   3. Ensure you replace <password> with your actual database user password.
+2026-06-09 21:40:38 [error]:   4. Whitelist all IP addresses (0.0.0.0/0) in MongoDB Atlas settings.
+2026-06-09 21:40:38 [error]: ==================================================================
+2026-06-09 21:40:38 [warn]: Development mode: Keeping server running so you can update .env. Changes will hot-reload.
+2026-06-09 21:40:38 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-06-09 21:41:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:42:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:43:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:44:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:45:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:46:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:47:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:48:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-06-09 21:49:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-11-17 22:14:34 [info]: ✅ Socket.io initialized
+2026-11-17 22:14:34 [info]: ✅ Reminder cron jobs started
+2026-11-17 22:14:34 [info]: 🚀 Healthcare Chatbot Server running on port 5000 in development mode
+2026-11-17 22:14:39 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-11-17 22:14:39 [error]: ❌ MongoDB connection attempt 1/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-11-17 22:14:39 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-11-17 22:14:45 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-11-17 22:14:45 [error]: ❌ MongoDB connection attempt 2/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-11-17 22:14:45 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-11-17 22:14:53 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-11-17 22:14:53 [error]: ❌ MongoDB connection attempt 3/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-11-17 22:14:53 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-11-17 22:15:03 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-11-17 22:15:03 [error]: ❌ MongoDB connection attempt 4/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-11-17 22:15:03 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-11-17 22:15:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-11-17 22:15:14 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-11-17 22:15:20 [error]: ❌ MongoDB connection attempt 5/5 failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-11-17 22:15:20 [error]: ==================================================================
+2026-11-17 22:15:20 [error]:                 ⚠️  DATABASE CONNECTION ERROR ⚠️
+2026-11-17 22:15:20 [error]: ==================================================================
+2026-11-17 22:15:20 [error]:   Could not connect to MongoDB.
+2026-11-17 22:15:20 [error]:   If you are running in production/publishing professionally:
+2026-11-17 22:15:20 [error]:   1. Create a free database cluster on MongoDB Atlas.
+2026-11-17 22:15:20 [error]:   2. Copy the connection string and paste it into backend/.env
+2026-11-17 22:15:20 [error]:      as MONGO_URI=mongodb+srv://<user>:<password>@cluster0...
+2026-11-17 22:15:20 [error]:   3. Ensure you replace <password> with your actual database user password.
+2026-11-17 22:15:20 [error]:   4. Whitelist all IP addresses (0.0.0.0/0) in MongoDB Atlas settings.
+2026-11-17 22:15:20 [error]: ==================================================================
+2026-11-17 22:15:20 [warn]: Development mode: Keeping server running so you can update .env. Changes will hot-reload.
+2026-11-17 22:15:20 [error]: MongoDB error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2026-11-17 22:16:10 [error]: Reminder check error: Operation `medicines.find()` buffering timed out after 10000ms
+2026-11-17 22:16:44 [info]: ✅ Socket.io initialized
+2026-11-17 22:16:44 [info]: ✅ Reminder cron jobs started
+2026-11-17 22:16:44 [info]: 🚀 Healthcare Chatbot Server running on port 5000 in development mode
